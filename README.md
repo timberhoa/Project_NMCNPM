@@ -16,18 +16,18 @@
 ## kế hoạch Phát triển phần mềm theo cách tiếp cận lặp và tăng (Iterative and increment)
 Bước 1: Sắp xếp thứ tự ưu các yêu cầu
 -	Xác định yêu cầu cơ bản:
-o	 Đăng nhập/Đăng ký: Người dùng có thể đăng nhập vào tài khoản hoặc đăng ký tài khoản mới.
-o	Xem sản phẩm: Người dùng có thể xem danh sách sản phẩm có sẵn.
-o	Thêm vào giỏ hàng: Người dùng có thể thêm sản phẩm vào giỏ hàng của họ.
-o	Thanh toán: Người dùng có thể thanh toán các sản phẩm trong giỏ hàng.
-o	Quản lý đơn hàng: Người dùng có thể xem và quản lý các đơn hàng của họ.
-o	Tìm kiếm sản phẩm: Người dùng có thể tìm kiếm sản phẩm dựa trên các tiêu chí khác nhau.
+  o	 Đăng nhập/Đăng ký: Người dùng có thể đăng nhập vào tài khoản hoặc đăng ký tài khoản mới.
+  o	Xem sản phẩm: Người dùng có thể xem danh sách sản phẩm có sẵn.
+  o	Thêm vào giỏ hàng: Người dùng có thể thêm sản phẩm vào giỏ hàng của họ.
+  o	Thanh toán: Người dùng có thể thanh toán các sản phẩm trong giỏ hàng.
+  o	Quản lý đơn hàng: Người dùng có thể xem và quản lý các đơn hàng của họ.
+  o	Tìm kiếm sản phẩm: Người dùng có thể tìm kiếm sản phẩm dựa trên các tiêu chí khác nhau.
 
 
 -	Ưu tiên yêu cầu: 
-o	Đăng nhập/Đăng ký, Xem sản phẩm và Thêm vào giỏ hàng: Ưu tiên cao vì chúng là các tính năng cơ bản để người dùng có thể trải nghiệm và mua sản phẩm.
-o	Thanh toán và Quản lý đơn hàng: Ưu tiên trung bình vì chúng liên quan đến quy trình mua hàng và cần phải được triển khai một cách cẩn thận.
-o	Tìm kiếm sản phẩm: Ưu tiên thấp nhưng vẫn quan trọng để cải thiện trải nghiệm người dùng.
+  o	Đăng nhập/Đăng ký, Xem sản phẩm và Thêm vào giỏ hàng: Ưu tiên cao vì chúng là các tính năng cơ bản để người dùng có thể trải nghiệm và mua sản phẩm.
+  o	Thanh toán và Quản lý đơn hàng: Ưu tiên trung bình vì chúng liên quan đến quy trình mua hàng và cần phải được triển khai một cách cẩn thận.
+  o	Tìm kiếm sản phẩm: Ưu tiên thấp nhưng vẫn quan trọng để cải thiện trải nghiệm người dùng.
 
 
 
