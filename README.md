@@ -14,7 +14,7 @@
 * Hạn chế fix cứng dữ liệu thay vào đó lưu trong file values
 
 ## kế hoạch Phát triển phần mềm theo cách tiếp cận lặp và tăng (Iterative and increment)
-Bước 1: Sắp xếp thứ tự ưu các yêu cầu
+## Bước 1: Sắp xếp thứ tự ưu các yêu cầu
 -	Xác định yêu cầu cơ bản:
   o	 Đăng nhập/Đăng ký: Người dùng có thể đăng nhập vào tài khoản hoặc đăng ký tài khoản mới.
   o	Xem sản phẩm: Người dùng có thể xem danh sách sản phẩm có sẵn.
@@ -33,7 +33,7 @@ Bước 1: Sắp xếp thứ tự ưu các yêu cầu
 
 
 
-Bước 2: Lựa chọn các yêu cầu đưa vào các phần gia tăng
+## Bước 2: Lựa chọn các yêu cầu đưa vào các phần gia tăng
 -	Phân đoạn chức năng:
 o	 Giai đoạn 1: Phát triển chức năng Đăng nhập/Đăng ký và Xem sản phẩm.
 o	Giai đoạn 2: Phát triển chức năng Thêm vào giỏ hàng và Thanh toán.
@@ -46,7 +46,7 @@ o	Giai đoạn 3: Phát triển giao diện người dùng cho Quản lý đơn 
 
 
 
-Bước 3: Lập kế hoạch thực hiện và phân công các thành viên tham gia phát triển
+## Bước 3: Lập kế hoạch thực hiện và phân công các thành viên tham gia phát triển
 -	Xác định tài nguyên:
 o	Developer: Phát triển mã nguồn cho các tính năng.
 o	Designer: Thiết kế giao diện người dùng.
